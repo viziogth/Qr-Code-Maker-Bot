@@ -15,7 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Free](https://img.shields.io/badge/Free-100k%20req%2Fday-brightgreen)](https://workers.cloudflare.com/)
 
-**Project Owner: [YOUR_NAME](https://github.com/YOUR_USERNAME)**
+**Project Owner: [envillad](https://github.com/vizioogth)**
 
 🌐 [فارسی](#-فارسی) · [English](#-english) · [العربية](#-العربية) · [Türkçe](#-türkçe) · [Русский](#-русский)
 
